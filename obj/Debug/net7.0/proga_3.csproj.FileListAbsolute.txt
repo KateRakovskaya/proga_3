@@ -1,0 +1,15 @@
+C:\Kate\учеба\_ГБ\c# курс\proga_3\bin\Debug\net7.0\proga_3.exe
+C:\Kate\учеба\_ГБ\c# курс\proga_3\bin\Debug\net7.0\proga_3.deps.json
+C:\Kate\учеба\_ГБ\c# курс\proga_3\bin\Debug\net7.0\proga_3.runtimeconfig.json
+C:\Kate\учеба\_ГБ\c# курс\proga_3\bin\Debug\net7.0\proga_3.dll
+C:\Kate\учеба\_ГБ\c# курс\proga_3\bin\Debug\net7.0\proga_3.pdb
+C:\Kate\учеба\_ГБ\c# курс\proga_3\obj\Debug\net7.0\proga_3.csproj.AssemblyReference.cache
+C:\Kate\учеба\_ГБ\c# курс\proga_3\obj\Debug\net7.0\proga_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kate\учеба\_ГБ\c# курс\proga_3\obj\Debug\net7.0\proga_3.AssemblyInfoInputs.cache
+C:\Kate\учеба\_ГБ\c# курс\proga_3\obj\Debug\net7.0\proga_3.AssemblyInfo.cs
+C:\Kate\учеба\_ГБ\c# курс\proga_3\obj\Debug\net7.0\proga_3.csproj.CoreCompileInputs.cache
+C:\Kate\учеба\_ГБ\c# курс\proga_3\obj\Debug\net7.0\proga_3.dll
+C:\Kate\учеба\_ГБ\c# курс\proga_3\obj\Debug\net7.0\refint\proga_3.dll
+C:\Kate\учеба\_ГБ\c# курс\proga_3\obj\Debug\net7.0\proga_3.pdb
+C:\Kate\учеба\_ГБ\c# курс\proga_3\obj\Debug\net7.0\proga_3.genruntimeconfig.cache
+C:\Kate\учеба\_ГБ\c# курс\proga_3\obj\Debug\net7.0\ref\proga_3.dll
